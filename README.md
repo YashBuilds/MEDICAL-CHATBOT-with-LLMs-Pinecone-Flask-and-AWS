@@ -6,7 +6,7 @@
 Clone the repository
 
 ```bash
-git clone https://github.com/YashBuilds/MEDICAL-CHATBOT-with-LLMs-Pinecone-Flask-and-AWS/blob/main/README.md.git
+git clone https://github.com/YashBuilds/MEDICAL-CHATBOT-with-LLMs-Pinecone-Flask-and-AWS.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
